@@ -21,3 +21,5 @@ No API keys. No restrictions. Just copy, paste, and let LikeParser do the work f
 * Export to Excel – Ready-to-use data for analytics, CRM, or outreach.
 
 ## How To Use LikeParser?
+https://github.com/user-attachments/assets/d7dd0a44-4a73-4f71-9a6f-540c0c691e75
+
