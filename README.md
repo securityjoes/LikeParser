@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/270ab439-c972-40cb-b250-1c79acd68362
 # LikeParser v1.0 👍🏻 - Free LinkedIn Like Parser 🚀
 ![LikeParser Banner](https://github.com/user-attachments/assets/2eec7b28-b34d-431f-a728-634c4dcd800b)
 #### Created & Maintained by: [Eilay Yosfan](https://github.com/YosfanEilay#-eilay-yosfan)
@@ -23,4 +22,4 @@ No API keys. No restrictions. Just copy, paste, and let LikeParser do the work f
 * Export to Excel – Ready-to-use data for analytics, CRM, or outreach.
 
 ## How To Use LikeParser?
-Uploading How To Use LikeParser.mp4…
+https://github.com/user-attachments/assets/270ab439-c972-40cb-b250-1c79acd68362
