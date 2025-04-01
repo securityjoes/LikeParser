@@ -1,5 +1,6 @@
 
 # LikeParser v2.0
+<img width="768" alt="LikeParser Banner" src="https://github.com/user-attachments/assets/db5cdde7-f496-4342-a4b1-3b6c9d410d25" />
 #### Created & Maintained by: [Eilay Yosfan](https://github.com/YosfanEilay#-eilay-yosfan)
 
 ## What is LikeParser
