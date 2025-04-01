@@ -1,0 +1,2 @@
+# Choose Linkedin login method (1Password/UserData)
+LoginMethod=UserData
