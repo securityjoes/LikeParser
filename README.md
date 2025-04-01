@@ -1,6 +1,5 @@
 
 # LikeParser v2.0
-Created & Maintained by: [Eilay Yosfan](https://github.com/YosfanEilay#-eilay-yosfan)
 <img width="768" alt="LikeParser Banner" src="https://github.com/user-attachments/assets/db5cdde7-f496-4342-a4b1-3b6c9d410d25" />
 
 ## What is LikeParser
@@ -10,18 +9,4 @@ But it doesn’t stop there — LikeParser also builds a ranked database of ever
 
 Oh, and the best part? It’s completely free. LikeParser was designed to work without paying for LinkedIn’s API — no subscriptions, no tokens, just results.
 
-## How It Works? 
-1. Scroll through your LinkedIn post likes.
-2. Copy the list of interactions.
-3. Paste them into the LikeParser folder.
-4. Run the tool and watch it organize the data for you.
 
-## Why LikeParser?
-* No API required – No restrictions, no authentication, no rate limits.
-* Fast and simple – Get structured data in seconds.
-* Perfect for lead generation – Easily identify potential connections and engagement trends.
-* Privacy-first – Everything runs locally on your machine.
-* Export to Excel – Ready-to-use data for analytics, CRM, or outreach.
-
-## How To Use LikeParser?
-https://github.com/user-attachments/assets/270ab439-c972-40cb-b250-1c79acd68362
