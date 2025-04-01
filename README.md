@@ -1,5 +1,5 @@
 
-# LikeParser v1.0 👍🏻 - Free LinkedIn Like Parser 🚀
+# LikeParser v2.0 👍🏻 - Free LinkedIn Like Parser 🚀
 ![LikeParser Banner](https://github.com/user-attachments/assets/2eec7b28-b34d-431f-a728-634c4dcd800b)
 #### Created & Maintained by: [Eilay Yosfan](https://github.com/YosfanEilay#-eilay-yosfan)
 
