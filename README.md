@@ -12,4 +12,4 @@ Oh, and the best part? It’s completely free. LikeParser was designed to work w
 ## How to Use LikeParser?
 Running Like parser is very easy
 1. First download the tool, click on "<> Code" and then on "Download ZIP" and extract the folder to your desktop.
-2. Lunch PowerShell.exe, navigate to the tool folder, and execute the start file like this '.\Start.ps1'
+2. Lunch PowerShell.exe, navigate to the tool folder, and execute the start file like this `.\Start.ps1`
