@@ -10,5 +10,6 @@ But it doesn’t stop there — LikeParser also builds a ranked database of ever
 Oh, and the best part? It’s completely free. LikeParser was designed to work without paying for LinkedIn’s API — no subscriptions, no tokens, just results.
 
 ## How to Use LikeParser?
+Running Like parser is very easy
 1. First download the tool, click on "<> Code" and then on "Download ZIP" and extract the folder to your desktop.
-2. Lunch PowerShell.exe, navigate to the tool folder, and execute `s`
+2. Lunch PowerShell.exe, navigate to the tool folder, and execute the start file like this '.\Start.ps1'
