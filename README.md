@@ -12,7 +12,7 @@ Oh, and the best part? It’s completely free. LikeParser was designed to work w
 ## How to Use LikeParser?
 Getting started with LikeParser is simple: just configure the `config.txt` file, then run the tool.
 ### Step 1 - Configuration
-sss
+*******
 ### Step 2 - Running
 1. Download the tool, click on "<> Code" and then on "Download ZIP" and extract the folder to your desktop.
 2. Lunch `PowerShell.exe`, navigate to the tool folder, and execute the start file like this `.\Start.ps1`
