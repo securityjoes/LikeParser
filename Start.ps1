@@ -22,8 +22,21 @@ $SystemDrive = $env:SystemDrive
 $WebDriverPath = "$RunPath\ChromeDriverWin64\"
 $ChromePath = "$SystemDrive\Program Files\Google\Chrome\Application\chrome.exe"
 
+# Dotsource LoadControl.ps1
+. "$RunPath\DotSource\LoadControl.ps1"
+
+# First load control variable check
+if ($LoadControlFlag -eq "fail") {
+    exit
+}
+
 # Dotsource ReadConfig.ps1
 . "$RunPath\DotSource\ReadConfig.ps1"
+
+# Second Load control variable check
+if ($LoadControlFlag -eq "fail") {
+    exit
+}
 
 # Dotsource DownloadConvertExcel.ps1
 . "$RunPath\DotSource\DownloadConvertExcel.ps1"

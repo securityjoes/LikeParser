@@ -1,5 +1,9 @@
-﻿# Variables to load
+﻿# Path to config file
 $ConfigPath = "$RunPath\Config\Config.txt"
+
+# Collect the 1Password item name value from the config.txt
+$ItemName = (Select-String -Path $ConfigPath -Pattern "ItemName").Line
+$ItemName = $ItemName -replace '.*\=',''
 
 # Collect the LoginMethod value from the config.txt
 $LoginMethod = (Select-String -Path $ConfigPath -Pattern "LoginMethod").Line

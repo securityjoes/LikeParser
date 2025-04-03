@@ -1,7 +1,4 @@
-﻿# Clean the terminal prompt
-clear
-
-# Dotsource Banner.ps1 (Print it after the 'clear' prompt)
+﻿# Dotsource Banner.ps1 (Print it after the 'clear' prompt)
 . "$RunPath\DotSource\Banner.ps1"
 
 # Get text content of URLs.txt and save to a variable
