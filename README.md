@@ -46,3 +46,14 @@ In most cases, restarting your PowerShell session is enough to proceed. However,
 
 This is the typical style of LikeParser’s error messages — informative and solution-oriented.
 If the script encounters an error, always read the PowerShell terminal output first; it usually includes clear guidance on how to resolve the issue.
+
+## LikeParser Dependencies
+LikeParser relies on a set of required dependencies to run properly, along with optional dependencies that can extend or improve its capabilities.
+
+#### Dependencies For 1Passowrd Integration
+If you want to use 1Password integration, you first have to manually download 1Password software,
+and for the 1Password-cli, LikeParser will install it manually when you run it for the first time. 
+|Dependencies|
+| --- |
+| 1Password Software |
+| 1Password-cli |
