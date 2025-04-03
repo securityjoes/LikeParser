@@ -34,14 +34,14 @@ For example: <br>
 [!] Please download the matching Chrome driver for your Chrome browser
 [!] And save it under C:\LikeParser\ChromeDriverWin64\
 [!] URL to download: https://getwebdriver.com/
-`
+` <br>
 How to fix it: Download the correct ChromeDriver version that matches your Chrome browser and replace the existing one in the specified folder.
 
 Another example: <br>
 `
 [!] The ImportExcel PowerShell module was not detected and has now been successfully installed.
 [!] If the script does not function as expected, please restart your computer and try again.
-`
+` <br>
 How to fix it: In this example, the ImportExcel PowerShell module was not initially detected, but LikeParser automatically installed it.
 In most cases, restarting your PowerShell session is enough to proceed. However, a full system restart may be more effective if issues persist.
 
