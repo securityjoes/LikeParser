@@ -1,25 +1,18 @@
 
-# LikeParser v2.0 👍🏻 - Free LinkedIn Like Parser 🚀
-![LikeParser Banner](https://github.com/user-attachments/assets/2eec7b28-b34d-431f-a728-634c4dcd800b)
-#### Created & Maintained by: [Eilay Yosfan](https://github.com/YosfanEilay#-eilay-yosfan)
+# LikeParser v2.0
+<img width="768" alt="LikeParser Banner" src="https://github.com/user-attachments/assets/db5cdde7-f496-4342-a4b1-3b6c9d410d25" />
 
-## What is LikeParser
-LikeParser is a free + API-free tool that extracts LinkedIn post interactions with zero setup. Instead of dealing with APIs, simply scroll through your LinkedIn post likes, copy the list of interactions, and paste them into the LikeParser folder. The tool automatically organizes the data, extracting user names, engagement types (like, celebrate, insightful, etc.), and other relevant details into a structured format, ready for analysis or lead generation. It also tracks who interacts with your profile the most, creating a special field that highlights your most engaged users, making it easier than ever to identify your top supporters and potential leads.
+## What is LikeParser?
+LikeParser is a smart automation tool that turns your LinkedIn engagement into a goldmine for Marketing and Sales. It scrapes data from your LinkedIn profile or page and generates a detailed report with post-level insights — showing how each post performed and highlighting your top-performing content in terms of audience engagement.
 
-No API keys. No restrictions. Just copy, paste, and let LikeParser do the work for you.
+But it doesn’t stop there — LikeParser also builds a ranked database of every user who interacted with your content, giving your Sales team a warm lead list ordered from most to least engaged. It’s a simple, powerful way to turn likes into leads.
 
-## How It Works? 
-1. Scroll through your LinkedIn post likes.
-2. Copy the list of interactions.
-3. Paste them into the LikeParser folder.
-4. Run the tool and watch it organize the data for you.
+Oh, and the best part? It’s completely free. LikeParser was designed to work without paying for LinkedIn’s API — no subscriptions, no tokens, just results.
 
-## Why LikeParser?
-* No API required – No restrictions, no authentication, no rate limits.
-* Fast and simple – Get structured data in seconds.
-* Perfect for lead generation – Easily identify potential connections and engagement trends.
-* Privacy-first – Everything runs locally on your machine.
-* Export to Excel – Ready-to-use data for analytics, CRM, or outreach.
-
-## How To Use LikeParser?
-https://github.com/user-attachments/assets/270ab439-c972-40cb-b250-1c79acd68362
+## How to Use LikeParser?
+Getting started with LikeParser is simple: just configure the `config.txt` file, then run the tool.
+### Step 1 - Configuration
+*******
+### Step 2 - Running
+1. Download the tool, click on "<> Code" and then on "Download ZIP" and extract the folder to your desktop.
+2. Lunch `PowerShell.exe`, navigate to the tool folder, and execute the start file like this `.\Start.ps1`
