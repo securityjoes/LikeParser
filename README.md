@@ -36,9 +36,11 @@ LikeParser has a built-in error handling system that displays clear, actionable 
 ```
 How to fix it: Download the correct ChromeDriver version that matches your Chrome browser and replace the existing one in the specified folder.
 
-#### Error Example - 2 <br>
-`[!] The ImportExcel PowerShell module was not detected and has now been successfully installed.` <br>
-`[!] If the script does not function as expected, please restart your computer and try again.` <br>
+#### Error Example - 2 <be>
+```
+[!] The ImportExcel PowerShell module was not detected and has now been successfully installed.
+[!] If the script does not function as expected, please restart your computer and try again.
+```
 How to fix it: In this example, the ImportExcel PowerShell module was not initially detected, but LikeParser automatically installed it.
 In most cases, restarting your PowerShell session is enough to proceed. However, a full system restart may be more effective if issues persist.
 
