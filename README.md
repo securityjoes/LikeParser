@@ -1,4 +1,5 @@
 # LikeParser v2.1
+#### Created & Maintained by: [Eilay Yosfan](https://github.com/YosfanEilay#-eilay-yosfan)
 <img width="768" alt="LikeParser Banner" src="https://github.com/user-attachments/assets/db5cdde7-f496-4342-a4b1-3b6c9d410d25" />
 
 ## What is LikeParser?
@@ -59,4 +60,8 @@ LikeParser relies on a set of required dependencies to run properly, along with 
 Only if you want to use the 1Password integration.
 * 1Password Software (Must Install Manually)
 * 1Password-cli (Installed Automatically When Running LikeParser)
+
+## Need Help?
+Found a bug? Need help? do you want to add a new feature? </br>
+Don't hesitate to contact me by [creating an issue](https://github.com/securityjoes/LikeParser/issues/new).
 
