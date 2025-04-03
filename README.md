@@ -5,6 +5,8 @@
 ## What is LikeParser?
 LikeParser is a smart automation tool that turns your LinkedIn engagement into a goldmine for Marketing and Sales. It scrapes data from your LinkedIn profile or page and generates a detailed report with post-level insights — showing how each post performed and highlighting your top-performing content in terms of audience engagement.
 
+You can choose the timeframe for scraping — from the past month to a full year — giving you the flexibility to analyze short-term trends or long-term performance.
+
 But it doesn’t stop there — LikeParser also builds a ranked database of every user who interacted with your content, giving your Sales team a warm lead list ordered from most to least engaged. It’s a simple, powerful way to turn likes into leads.
 
 Oh, and the best part? It’s completely free. LikeParser was designed to work without paying for LinkedIn’s API — no subscriptions, no tokens, just results.
