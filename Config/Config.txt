@@ -2,4 +2,4 @@
 LoginMethod=UserData
 
 # Write your 1Password item name that holds LinkedIn credentials
-ItemName=Personal-LinkedIn
+ItemName=YOUR_LINKEDIN_1PASSOWRD_ITEM_NAME
