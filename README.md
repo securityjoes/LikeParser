@@ -24,3 +24,26 @@ Getting started with LikeParser is simple: just configure the `config.txt` file,
 ### Step 2 - Running
 1. Download the tool, click on "<> Code" and then on "Download ZIP" and extract the folder to your desktop.
 2. Lunch `PowerShell.exe`, navigate to the tool folder, and execute the start file like this `.\Start.ps1`
+
+## Errors When Running LikeParser?
+LikeParser has a built-in error handling system that displays clear, actionable messages directly in the PowerShell terminal when something goes wrong. These messages are designed to guide you through resolving common issues quickly. <be>
+
+For example:
+`
+[!] Chrome browser version is 114.0.5735.110 but your Chrome driver version is 113.0.5672.63
+[!] Please download the matching Chrome driver for your Chrome browser
+[!] And save it under C:\LikeParser\ChromeDriverWin64\
+[!] URL to download: https://getwebdriver.com/
+`
+How to fix it: Download the correct ChromeDriver version that matches your Chrome browser and replace the existing one in the specified folder.
+
+Another example:
+`
+[!] The ImportExcel PowerShell module was not detected and has now been successfully installed.
+[!] If the script does not function as expected, please restart your computer and try again.
+`
+How to fix it: In this example, the ImportExcel PowerShell module was not initially detected, but LikeParser automatically installed it.
+In most cases, restarting your PowerShell session is enough to proceed. However, a full system restart may be more effective if issues persist.
+
+This is the typical style of LikeParser’s error messages — informative and solution-oriented.
+If the script encounters an error, always read the PowerShell terminal output first; it usually includes clear guidance on how to resolve the issue.
