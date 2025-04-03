@@ -28,10 +28,12 @@ Getting started with LikeParser is simple: just configure the `config.txt` file,
 LikeParser has a built-in error handling system that displays clear, actionable messages directly in the PowerShell terminal when something goes wrong. These messages are designed to guide you through resolving common issues quickly. <be>
 
 #### Error Example - 1 <br>
-`[!] Chrome browser version is 114.0.5735.110 but your Chrome driver version is 113.0.5672.63` <br>
-`[!] Please download the matching Chrome driver for your Chrome browser` <br>
-`[!] And save it under C:\LikeParser\ChromeDriverWin64\` <br>
-`[!] URL to download: https://getwebdriver.com/` <br>
+```
+[!] Chrome browser version is 114.0.5735.110 but your Chrome driver version is 113.0.5672.63
+[!] Please download the matching Chrome driver for your Chrome browser
+[!] And save it under C:\LikeParser\ChromeDriverWin64\
+[!] URL to download: https://getwebdriver.com/
+```
 How to fix it: Download the correct ChromeDriver version that matches your Chrome browser and replace the existing one in the specified folder.
 
 #### Error Example - 2 <br>
