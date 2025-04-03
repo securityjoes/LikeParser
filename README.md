@@ -17,9 +17,9 @@ Getting started with LikeParser is simple: just configure the `config.txt` file,
 ### Step 1 - Configuration
 1. Open `config.txt` and select your preferred login method: <be>
 
-   a. 1Password: Set `LoginMethod=1Password` and `ItemName=YOUR_LINKEDIN_1PASSWORD_ITEM_NAME` to log in using saved credentials from 1Password. <be>
+   * 1Password: Set `LoginMethod=1Password` and `ItemName=YOUR_LINKEDIN_1PASSWORD_ITEM_NAME` to log in using saved credentials from 1Password. <be>
    
-   b. UserData (Chrome): If you're already logged into LinkedIn via Chrome, set `LoginMethod=UserData` to launch Chrome with your existing cookies and session. <br>
+   * UserData (Chrome): If you're already logged into LinkedIn via Chrome, set `LoginMethod=UserData` to launch Chrome with your existing cookies and session. <br>
    
 ### Step 2 - Running
 1. Download the tool, click on "<> Code" and then on "Download ZIP" and extract the folder to your desktop.
