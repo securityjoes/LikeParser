@@ -1,5 +1,5 @@
 # Choose Linkedin login method (1Password/UserData)
-LoginMethod=UserData
+LoginMethod=CHOOSE_A_METHOD
 
 # Write your 1Password item name that holds LinkedIn credentials
 ItemName=YOUR_LINKEDIN_1PASSOWRD_ITEM_NAME
