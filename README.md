@@ -1,6 +1,6 @@
 # LikeParser v2.1
-#### Created & Maintained by: [Eilay Yosfan](https://github.com/YosfanEilay#-eilay-yosfan)
 <img width="768" alt="LikeParser Banner" src="https://github.com/user-attachments/assets/db5cdde7-f496-4342-a4b1-3b6c9d410d25" />
+###### Created & Maintained by: [Eilay Yosfan](https://github.com/YosfanEilay#-eilay-yosfan)
 
 ## What is LikeParser?
 LikeParser is a smart automation tool that turns your LinkedIn engagement into a goldmine for Marketing and Sales. It scrapes data from your LinkedIn profile or page and generates a detailed report with post-level insights — showing how each post performed and highlighting your top-performing content in terms of audience engagement.
